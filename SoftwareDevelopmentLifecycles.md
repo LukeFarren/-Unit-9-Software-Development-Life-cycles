@@ -74,11 +74,11 @@
 -   Coding
     
 
- ##***Risk Management within the Spiral Model***
+ ##Risk Management within the Spiral Model
 
   
 ***The Spiral model*** is one of the more in depth software development models, this leads to risk being mitigated. A risk is a problem that hasn’t occurred yet, the spiral model deals with this issue by having successive iterations. The project starts with the first phase by determining objectives and requirements, in the second phase the risks and solutions are identified and a prototype is made, as the project progresses more and more risks and solutions are identified until the software is finally implemented. This means that the Spiral model is low risk with risks being identified and solved throughout the project so when the project reaches the final testing phase there is not a myriad of problems as they have already been solved with no unnecessary delay to implementation.
 
-##***Why is a particular life cycle model selected?***
+##Why is a particular life cycle model selected
 
 ***The Spiral model*** is most likely to be selected over other models for large and expensive projects that require constant user feedback. An example of this would be large gaming titles where patches and updates are released regularly. Large games such as Escape From Tarkov have many elements to them, a lot of elements that can go wrong. The game uses realistic shooting in which physics needs to be correct for the game to function properly, although most of these errors will be fixed because of how the Spiral model is designed some of these errors can be accidentally overlooked during testing before the patch or the update goes live, this requires the users to report pack those errors so they can be fixed during the next iteration. The Spiral model is optimal for large game developers because they can release the games early on during development where they can do the Alpha/Beta testing publicly leading to the users themselves becoming part of the development cycle.
