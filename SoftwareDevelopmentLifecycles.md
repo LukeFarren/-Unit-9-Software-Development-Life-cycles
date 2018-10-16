@@ -1,6 +1,6 @@
 ## ***Software Development Life Cycles***
 
-  ## Iterative software life cycle models***
+  ## Iterative software life cycle models
 
 ##***Rapid Application Development (RAD)*** is one of the main methods of developing software, RAD uses rapid prototyping with no significant pre planning during the model lifecycle. This allows for the software to be rapidly deployed at an early stage during its development for quick customer feedback.This method allows for reuse of prototypes and keeps its integration throughout the stages of the softwares development.
 
