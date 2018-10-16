@@ -1,8 +1,8 @@
 ## ***Software Development Life Cycles***
 
-  ***Iterative software life cycle models***
+  ## Iterative software life cycle models***
 
-***Rapid Application Development (RAD)*** is one of the main methods of developing software, RAD uses rapid prototyping with no significant pre planning during the model lifecycle. This allows for the software to be rapidly deployed at an early stage during its development for quick customer feedback.This method allows for reuse of prototypes and keeps its integration throughout the stages of the softwares development.
+##***Rapid Application Development (RAD)*** is one of the main methods of developing software, RAD uses rapid prototyping with no significant pre planning during the model lifecycle. This allows for the software to be rapidly deployed at an early stage during its development for quick customer feedback.This method allows for reuse of prototypes and keeps its integration throughout the stages of the softwares development.
 
 	The stages of this method are as follows,
 
@@ -51,7 +51,7 @@
     
 -   Deployment and Maintenance
     
-***The V-Model method*** is a sequential software development model. This method is an extension of the waterfall model and each phase has its own testing phase during development. This method uses a V shape with Verification on one side of the ìVî and Validation on the opposite side of the ìVî. Just as with the Waterfall method each phase of the V model must be completed before starting a new phase.
+***The V-Model method*** is a sequential software development model. This method is an extension of the waterfall model and each phase has its own testing phase during development. This method uses a V shape with Verification on one side of the ‚ÄúV‚Äù and Validation on the opposite side of the ‚ÄúV‚Äù. Just as with the Waterfall method each phase of the V model must be completed before starting a new phase.
 
 	The stages of this method are as follows,
 
@@ -77,7 +77,7 @@
  ***Risk Management within the Spiral Model***
 
   
-***The Spiral model*** is one of the more in depth software development models, this leads to risk being mitigated. A risk is a problem that hasnít occurred yet, the spiral model deals with this issue by having successive iterations. The project starts with the first phase by determining objectives and requirements, in the second phase the risks and solutions are identified and a prototype is made, as the project progresses more and more risks and solutions are identified until the software is finally implemented. This means that the Spiral model is low risk with risks being identified and solved throughout the project so when the project reaches the final testing phase there is not a myriad of problems as they have already been solved with no unnecessary delay to implementation.
+***The Spiral model*** is one of the more in depth software development models, this leads to risk being mitigated. A risk is a problem that hasn‚Äôt occurred yet, the spiral model deals with this issue by having successive iterations. The project starts with the first phase by determining objectives and requirements, in the second phase the risks and solutions are identified and a prototype is made, as the project progresses more and more risks and solutions are identified until the software is finally implemented. This means that the Spiral model is low risk with risks being identified and solved throughout the project so when the project reaches the final testing phase there is not a myriad of problems as they have already been solved with no unnecessary delay to implementation.
 
 ***Why is a particular life cycle model selected?***
 
