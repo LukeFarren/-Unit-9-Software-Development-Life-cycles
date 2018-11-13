@@ -35,7 +35,8 @@
     
 -   Deployment
     
-***Sequential software lifecycle models***
+
+## Sequential software life-cycle models
 
  ***The Waterfall method*** is a sequential software development model, its is regarded as the first model to be used for software development. Each phase of the waterfall method must be completed before the project can be continued. This method is an easy method to use and understand because of its linear flow, this also means that multiple modules cannot be worked on at the same time.
 
